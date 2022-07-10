@@ -1,0 +1,17 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #0088ff;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flipkart-icon-white {
+    height : 50%;
+}
+
